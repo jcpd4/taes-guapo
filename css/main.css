@@ -5791,3 +5791,16 @@ label {
     color: #ffba00; }
 
 /*# sourceMappingURL=main.css.map */
+
+/* Tus clases personalizadas para el proyecto */
+
+/* Ejemplo de override */
+.filter-btn {
+  /* Solo sobrescribimos lo que queremos modificar */
+  line-height: 32px !important;
+  border-radius: 5px !important; 
+  /* Ajustar el radio a tu preferencia */
+  /* ... cualquier otra propiedad que quieras cambiar ... */
+}
+
+
